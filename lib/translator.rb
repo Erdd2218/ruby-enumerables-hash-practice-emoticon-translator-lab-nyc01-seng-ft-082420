@@ -21,7 +21,7 @@ def get_japanese_emoticon(path, emotes)
   end
   
   if emotes 
-    emotes 
+    lib[key][:japanese]
   else 
    "Sorry, that emoticon was not found"
   end
